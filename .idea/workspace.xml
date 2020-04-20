@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8f9ecf24-335b-428d-9f9b-3b1bc62b1743" name="Default Changelist" comment="" />
+    <list default="true" id="8f9ecf24-335b-428d-9f9b-3b1bc62b1743" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/Untitled-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/Untitled-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Untitled.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Untitled.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/celluloid_legends.gif" beforeDir="false" afterPath="$PROJECT_DIR$/celluloid_legends.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pol_regr.gif" beforeDir="false" afterPath="$PROJECT_DIR$/pol_regr.gif" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -65,6 +71,10 @@
       <workItem from="1587314040176" duration="4197000" />
       <workItem from="1587332579022" duration="98000" />
       <workItem from="1587332680232" duration="145000" />
+      <workItem from="1587332830026" duration="2283000" />
+      <workItem from="1587395101010" duration="328000" />
+      <workItem from="1587408110071" duration="54000" />
+      <workItem from="1587408257423" duration="1244000" />
     </task>
     <servers />
   </component>
@@ -72,10 +82,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="390" y="267" key="com.intellij.ide.util.TipDialog" timestamp="1587314040695">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state x="390" y="265" key="com.intellij.ide.util.TipDialog" timestamp="1587408111749">
+      <screen x="0" y="23" width="1440" height="816" />
     </state>
     <state x="390" y="267" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1587314040695" />
-    <state x="390" y="265" key="com.intellij.ide.util.TipDialog/0.23.1440.816@0.23.1440.816" timestamp="1587228539197" />
+    <state x="390" y="265" key="com.intellij.ide.util.TipDialog/0.23.1440.816@0.23.1440.816" timestamp="1587408111749" />
   </component>
 </project>
